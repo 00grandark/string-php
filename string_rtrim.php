@@ -8,7 +8,7 @@
 		<body>
 			<?php
 			  // Fungsi String Rtrim by Alvin Naufal
-  			  $nama = "Alvin Naufal      ";
+  			  $nama = "Alvin Naufal Awe      ";
   			  echo rtrim($nama);
 			?>
 		</body>
